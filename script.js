@@ -1,13 +1,13 @@
-var list1 = ["LAZY", "STUPID", "INSECURE", "IDIOTIC", "SLIMY", "SMELLY", "POMPOUS", "COMMUNIST", "DICKNOSE", "PIE-EATING", "RACIST", "ELITIST", "WHITETRASH", "DRUG-LOVING", "BUTTERFACE", "TONEDEAF", "UGLY", "CREEPY", "ARTLESS", "BAWDY", "BESLUBBERING", "BOOTLESS", "CHURLISH", "COCKERED", "CLOUTED", "CRAVEN", "CURRISH", "DANKISH", "DISSEMBLING", "DRONING", "ERRANT", "FAWNING", "FOBBING", "FROWARD", "FROTHY", "GLEEKING", "GOATISH", "GORBELLIED", "IMPERTINENT", "INFECTIOUS", "JARRING", "LOGGERHEADED", "LUMPISH", "MAMMERING", "MANGLED", "MEWLING", "PAUNCHY", "PRIBBLING", "PUKING", "PUNY", "QUALLING", "RANK", "REEKY", "ROGUISH", "RUTTISH", "SAUCY", "SPLEENY", "SPONGY", "SURLY", "TOTTERING", "UNMUZZLED", "VAIN", "VENOMED", "VILLAINOUS", "WARPED", "WAYWARD", "WEEDY", "YEASTY"];
-var list2 = ["DOUCHE", "ASS", "TURD", "RECTUM", "BUTT", "COCK", "SHIT", "CROTCH", "TURD", "PRICK", "TAINT", "FUCK", "DICK", "BONER", "SHART", "NUT", "SPHINCTER", "BASE-COURT", "BAT-FOWLING", "BEEF-WITTED", "BEETLE-HEADED", "BOIL-BRAINED", "CLAPPER-CLAWED", "CLAY-BRAINED", "COMMON-KISSING", "CROOK-PATED", "DISMAL-DREAMING", "DIZZY-EYED", "DOGHEARTED", "DREAD-BOLTED", "EARTH-VEXING", "ELF-SKINNED", "FAT-KIDNEYED", "FEN-SUCKED", "FLAP-MOUTHED", "FLY-BITTEN", "FOLLY-FALLEN", "FOOL-BORN", "FULL-GORGED", "GUTS-GRIPING", "HALF-FACED", "HASTY-WITTED", "HEDGE-BORN", "HELL-HATED", "IDLE-HEADED", "ILL-BREEDING", "ILL-NURTURED", "KNOTTY-PATED", "MILK-LIVERED", "MOTLEY-MINDED", "ONION-EYED", "PLUME-PLUCKED", "POTTLE-DEEP", "POX-MARKED", "REELING-RIPE", "ROUGH-HEWN", "RUDE-GROWING", "RUMP-FED", "SHARD-BORNE", "SHEEP-BITING", "SPUR-GALLED", "SWAG-BELLIED", "TARDY-GAITED", "TICKLE-BRAINED", "TOAD-SPOTTED", "UNCHIN-SNOUTED", "WEATHER-BITTEN"];
-var list3 = ["PILOT", "CANOE", "CAPTAIN", "PIRATE", "HAMMER", "KNOW", "BOX", "JOCKEY", "NAZI", "WAFFLE", "GOBLIN", "BLOSSOM", "BISCUIT", "CLOWN", "SOCKET", "MONSTER", "HOUND", "DRAGON", "BALLOON", "APPLE-JOHN", "BAGGAGE", "BARNACLE", "BLADDER", "BOAR-PIG", "BUGBEAR", "BUM-BAILEY", "CANKER-BLOSSOM", "CLACK-DISH", "CLOTPOL", "COXCOMB", "CODPIECE", "DEATH-TOKEN", "DEWBERRY", "FLAP-DRAGON", "FLAX-WENCH", "FLIRT-GILL", "FOOT-LICKER", "FUSTILARIA", "GIGLET", "GUDGEON", "HAGGARD", "HARPY", "HEDGE-PIG", "HORN-BEAST", "HUGGER-MUGGER", "JOITHEAD", "LEWDSTER", "LOUT", "MAGGOT-PIE", "MALT-WORM", "MAMMET", "MEASLE", "MINNOW", "MISCREANT", "MOLDWARP", "MUMBLE-NEWS", "NUT-HOOK", "PIGEON-EGG", "PIGNUT", "PUTTOCK", "PUMPION", "RATSBANE", "SCUT", "SKAINSMATE", "STRUMPET", "VARLOT", "VASSAL", "WHEY-FACE", "WAGTAIL"];
+var list1 = ["Lazy", "Stupid", "Insecure", "Idiotic", "Slimy", "Smelly", "Pompous", "Dicknose", "Pie-Eating", "Racist", "Elitist", "Whitetrash", "Drug-Loving", "Butterface", "Tonedeaf", "Creepy", "Artless", "Bawdy", "Beslubbering", "Bootless", "Churlish", "Cockered", "Clouted", "Craven", "Currish", "Dankish", "Dissembling", "Droning", "Errant", "Fawning", "Fobbing", "Froward", "Frothy", "Gleeking", "Goatish", "Gorbellied", "Impertinent", "Infectious", "Jarring", "Loggerheaded", "Lumpish", "Mammering", "Mangled", "Mewling", "Paunchy", "Pribbling", "Puking", "Puny", "Qualling", "Rank", "Reeky", "Roguish", "Ruttish", "Saucy", "Spleeny", "Spongy", "Surly", "Tottering", "Unmuzzled", "Vain", "Venomed", "Villainous", "Warped", "Wayward", "Weedy", "Yeasty", "Fascist", "Deplorable"];
+var list2 = ["Douche", "Ass", "Turd", "Rectum", "Butt", "Cock", "Shit", "Crotch", "Turd", "Prick", "Taint", "Fuck", "Dick", "Boner", "Shart", "Nut", "Sphincter", "Base-Court", "Bat-Fowling", "Beef-Witted", "Beetle-Headed", "Boil-Brained", "Clapper-Clawed", "Clay-Brained", "Common-Kissing", "Crook-Pated", "Dismal-Dreaming", "Dizzy-Eyed", "Doghearted", "Dread-Bolted", "Earth-Vexing", "Elf-Skinned", "Fat-Kidneyed", "Fen-Sucked", "Flap-Mouthed", "Fly-Bitten", "Folly-Fallen", "Fool-Born", "Full-Gorged", "Guts-Griping", "Half-Faced", "Hasty-Witted", "Hedge-Born", "Hell-Hated", "Idle-Headed", "Ill-Breeding", "Ill-Nurtured", "Knotty-Pated", "Milk-Livered", "Motley-Minded", "Onion-Eyed", "Plume-Plucked", "Pottle-Deep", "Pox-Marked", "Reeling-Ripe", "Rough-Hewn", "Rude-Growing", "Rump-Fed", "Shard-Borne", "Sheep-Biting", "Spur-Galled", "Swag-Bellied", "Tardy-Gaited", "Tickle-Brained", "Toad-Spotted", "Unchin-Snouted", "Weather-Bitten"];
+var list3 = ["Pilot", "Canoe", "Captain", "Pirate", "Hammer", "Know", "Box", "Jockey", "Nazi", "Waffle", "Goblin", "Blossom", "Biscuit", "Clown", "Socket", "Monster", "Hound", "Dragon", "Balloon", "Apple-John", "Baggage", "Barnacle", "Bladder", "Boar-Pig", "Bugbear", "Bum-Bailey", "Canker-Blossom", "Clack-Dish", "Clotpol", "Coxcomb", "Codpiece", "Death-Token", "Dewberry", "Flap-Dragon", "Flax-Wench", "Flirt-Gill", "Foot-Licker", "Fustilaria", "Giglet", "Gudgeon", "Haggard", "Harpy", "Hedge-Pig", "Horn-Beast", "Hugger-Mugger", "Joithead", "Lewdster", "Lout", "Maggot-Pie", "Malt-Worm", "Mammet", "Measle", "Minnow", "Miscreant", "Moldwarp", "Mumble-News", "Nut-Hook", "Pigeon-Egg", "Pignut", "Puttock", "Pumpion", "Ratsbane", "Scut", "Skainsmate", "Strumpet", "Varlot", "Vassal", "Whey-Face", "Wagtail", "Fascist", "Troglodyte"];
 var output = "A"
 
 function insult() {
 	var output = "A"
 	var rand1 = Math.floor(Math.random() * (list1.length - 1));
 	if (list1[rand1][0] === "A" || list1[rand1][0] === "E" || list1[rand1][0] === "I" || list1[rand1][0] === "O" || list1[rand1][0] === "U") {
-		output += "N";
+		output += "n";
 	}
 	output += " " + list1[rand1] + ", ";
 
@@ -20,6 +20,24 @@ function insult() {
 	return (output);
 };
 
-function generate () {
-	document.getElementById("list1").innerHTML = insult();
+function font() {
+	var fontSelect = Math.floor(Math.random() * 3);
+	switch (fontSelect) {
+		case 1:
+			return "'Great Vibes', cursive";
+			break;
+		case 2:
+			return "'Berkshire Swash', cursive";
+			break;
+		case 3:
+			return "'Monsieur La Doulaise', cursive";
+			break;
+		default:
+			return "'Ruthie', cursive";
+	}
+}
+
+function generate() {
+	document.getElementById("nothingAtAll").style.fontFamily = font();
+	document.getElementById("nothingAtAll").innerHTML = insult();
 };

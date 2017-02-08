@@ -1,0 +1,43 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+
+}
+div {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 60px;
+
+}
+span {
+  width: 100%;
+  display: block;
+  min-height: 140px;
+  margin: 40px;
+}
+h1 {
+  font-size: 1000%;
+}
+button {
+	border:  1px solid black;
+  -webkit-border-radius: 32;
+  -moz-border-radius: 32;
+  border-radius: 32px;
+  font-family: 'Righteous', cursive;
+  color: #000000;
+  font-size: 40px;
+  background: rgba(0, 0, 0, 0);
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: block;
+  height: 140px;
+}
+button:hover {
+  background: rgba(0, 0, 0, 0.4);
+  text-decoration: none;
+}
+@media screen and (min-width: 800px) {
+  h1 {
+    font-size: 600%;
+  }
+}
