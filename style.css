@@ -4,7 +4,7 @@ body {
 
 }
 div {
-  max-width: 1000px;
+  max-width: 100%;
   margin: 0 auto;
   margin-top: 60px;
 
@@ -40,4 +40,7 @@ button:hover {
   h1 {
     font-size: 600%;
   }
+  div {
+  max-width: 1000px;
+}
 }
